@@ -1,0 +1,7 @@
+input/
+output/
+trash/
+zips/
+venv/
+.idea/
+*.exe
